@@ -25,7 +25,7 @@ SECRET_KEY = '-ap(*e@lz$5@$08%x!46-b4sfq*b1#0qyyr0yhr&m41s@_rd+_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com', 'evtectica.pythonanywhere.com']
 
 
 # Application definition
